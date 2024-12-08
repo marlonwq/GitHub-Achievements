@@ -1,3 +1,7 @@
+#### _Read this in [other languages](Translations/Translations.md)._
+
+<kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
+
 <!-- <div align="center"> -->
 
 # 🏆 GitHub Achievements 🏆
